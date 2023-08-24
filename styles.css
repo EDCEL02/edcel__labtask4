@@ -16,6 +16,7 @@ header {
     background-color: #114b9f;
     color: aliceblue;
     padding-bottom: 5px;
+    width: 100%;
     
     
 }
@@ -46,6 +47,7 @@ h1{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    width: 100%;
 }
 
 .navbar a {
